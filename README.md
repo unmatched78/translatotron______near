@@ -1,4 +1,4 @@
-# Translatotron(without wavenet and auxilary decoder networks)
+# Translatotron(without wavenet and auxilary decoder networks) [Done!]
 
 PyTorch implementation of [Direct speech-to-speech translation with a sequence-to-sequence model](https://arxiv.org/abs/1904.06037). 
 
